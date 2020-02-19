@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+button {
+  width: 200px;
+  height: 50px;
+  background-color: black;
+  box-shadow: 2px 2px 5px darkgrey;
+  border-radius: 100px;
+  color: white;
+  font-size: 25px;
+}
+
+#introimg{
+  position : absolute;
+  top : 0px;
+  width : 100%;
+  height : 100%;
+}
+h2,h3{
+  color : yellow;
+  font-size: 25px;
+}
+#background_image_one{
+  position : absolute;
+  top : 0px;
+  width : 100%;
+  height : 100%;
+}
+
